@@ -22,7 +22,7 @@ We cover Swift's basic concepts, control flow, collections, functions, closures,
 Swift Fundamentals
 [x] The Basic
 [x] Control Flow and Collections
-[ ] Functions and Closures
+[~] Functions and Closures
 [ ] Object Oriented Programming
 [ ] Your First iOS App
 [ ] Certificate
